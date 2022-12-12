@@ -1,0 +1,12 @@
+C:\Users\haluk\OneDrive\Masaüstü\hw-6\ce205-2022-2023-hw3-haluk-kurtulus\ce205-2022-2023-hw3-haluk-kurtulus\bin\Debug\ce205_2022_2023_hw3_haluk_kurtulus.dll
+C:\Users\haluk\OneDrive\Masaüstü\hw-6\ce205-2022-2023-hw3-haluk-kurtulus\ce205-2022-2023-hw3-haluk-kurtulus\bin\Debug\ce205_2022_2023_hw3_haluk_kurtulus.pdb
+C:\Users\haluk\OneDrive\Masaüstü\hw-6\ce205-2022-2023-hw3-haluk-kurtulus\ce205-2022-2023-hw3-haluk-kurtulus\obj\Debug\ce205-hw3-algo.csproj.AssemblyReference.cache
+C:\Users\haluk\OneDrive\Masaüstü\hw-6\ce205-2022-2023-hw3-haluk-kurtulus\ce205-2022-2023-hw3-haluk-kurtulus\obj\Debug\ce205-hw3-algo.csproj.CoreCompileInputs.cache
+C:\Users\haluk\OneDrive\Masaüstü\hw-6\ce205-2022-2023-hw3-haluk-kurtulus\ce205-2022-2023-hw3-haluk-kurtulus\obj\Debug\ce205_2022_2023_hw3_haluk_kurtulus.dll
+C:\Users\haluk\OneDrive\Masaüstü\hw-6\ce205-2022-2023-hw3-haluk-kurtulus\ce205-2022-2023-hw3-haluk-kurtulus\obj\Debug\ce205_2022_2023_hw3_haluk_kurtulus.pdb
+C:\Users\haluk\OneDrive\Masaüstü\ce205-2022-2023-hw3-haluk-kurtulus\ce205-2022-2023-hw3-haluk-kurtulus\bin\Debug\ce205_2022_2023_hw3_haluk_kurtulus.dll
+C:\Users\haluk\OneDrive\Masaüstü\ce205-2022-2023-hw3-haluk-kurtulus\ce205-2022-2023-hw3-haluk-kurtulus\bin\Debug\ce205_2022_2023_hw3_haluk_kurtulus.pdb
+C:\Users\haluk\OneDrive\Masaüstü\ce205-2022-2023-hw3-haluk-kurtulus\ce205-2022-2023-hw3-haluk-kurtulus\obj\Debug\ce205-hw3-algo.csproj.AssemblyReference.cache
+C:\Users\haluk\OneDrive\Masaüstü\ce205-2022-2023-hw3-haluk-kurtulus\ce205-2022-2023-hw3-haluk-kurtulus\obj\Debug\ce205-hw3-algo.csproj.CoreCompileInputs.cache
+C:\Users\haluk\OneDrive\Masaüstü\ce205-2022-2023-hw3-haluk-kurtulus\ce205-2022-2023-hw3-haluk-kurtulus\obj\Debug\ce205_2022_2023_hw3_haluk_kurtulus.dll
+C:\Users\haluk\OneDrive\Masaüstü\ce205-2022-2023-hw3-haluk-kurtulus\ce205-2022-2023-hw3-haluk-kurtulus\obj\Debug\ce205_2022_2023_hw3_haluk_kurtulus.pdb
